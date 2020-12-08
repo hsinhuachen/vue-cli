@@ -1,5 +1,15 @@
 # vue-test
 
+## Vue install
+```
+npm install -g @vue/cli
+```
+
+## Create Project
+```
+vue create *project name*
+```
+
 ## Project setup
 ```
 npm install
